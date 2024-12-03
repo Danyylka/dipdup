@@ -446,7 +446,7 @@ Releases prior to 7.0 has been removed from this file to declutter search result
 - config: Don't create empty SentryConfig if DSN is not set.
 - context: Share internal state between context instances.
 - evm.node: Fixed keepalive loop for websocket connection.
-- evm.node: Fixed parsing empty realtime message payloads.
+- evm.node: Fixed parsing empty real-time message payloads.
 - jobs: Don't add jobs before scheduler is started.
 - package: Fixed package detection for poetry managed projects.
 - package: Fixed mypy command in default template.
